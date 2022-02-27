@@ -64,4 +64,4 @@ def menu():
 
 if __name__ == "__main__":
     menu()
-Copyright (c) 2022 Naxtag
+<br>Copyright (c) 2022 Naxtag
